@@ -4,13 +4,8 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
-    },
-    {
-      "id": 2,
-      "name": "ZZ Plant",
-      "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 15.99,
+      "inStock": false
     },
     {
       "id": 3,
@@ -31,16 +26,16 @@
       "price": 10.37
     },
     {
-      "id": 6,
-      "name": "Monstera Deliciosa",
-      "image": "./images/monstera.jpg",
-      "price": 25.99
-    },
-    {
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "eucalytus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNoQzl64FmOd8AuHQkQ1SCHH8pfVU3CUf88w&s",
+      "price": "89.3",
+      "id": 8
     }
   ]
 }
