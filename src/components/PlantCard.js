@@ -38,7 +38,7 @@ function PlantCard({ plant, onUpdatePlant, onDeletePlant }) {
     })
       .then((r) => r.json())
       .then((updatedPlant) => {
-        onUpdatePlant(updatedPlant); // Update plant status in App state
+        onUpdatePlant(updatedPlant);
       });
   }
 

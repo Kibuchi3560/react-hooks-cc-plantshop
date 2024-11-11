@@ -23,19 +23,14 @@
       "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
-      "price": 10.37
+      "price": 10.37,
+      "inStock": true
     },
     {
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
-    },
-    {
-      "name": "eucalytus",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNoQzl64FmOd8AuHQkQ1SCHH8pfVU3CUf88w&s",
-      "price": "89.3",
-      "id": 8
     }
   ]
 }
